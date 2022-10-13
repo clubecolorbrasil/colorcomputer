@@ -2,3 +2,4 @@ DriveWire é um modelo para a placa que é comercializada pelo Ernani
 Jogos é o padrão da Prológica
 O arquivo de imagens é da foto do modelo em 3D, comparado ao original que foi utilizado para modelagem
 O arquivo editável é, em tese, um arquivo que poderia ser utilizado para modificações (não testei).
+Link para o Datassette: https://datassette.org/softwares/br-brasil-hardware-trs-color-tandy-softwares/modelagem-3d-dos-cases-cartuchos-cp400-modelo-jogos-e-drivewire
