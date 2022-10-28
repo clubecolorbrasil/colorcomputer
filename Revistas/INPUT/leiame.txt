@@ -1,4 +1,4 @@
-Link para acesso aos arquivos da INPUT, convertidos pelo Giovani , para facilitar na utilização de emuladores (ao invés de digitar, copiar e colar). 
+Link para acesso aos arquivos da INPUT, convertidos pelo Giovani Gualdi, para facilitar na utilização de emuladores (ao invés de digitar, copiar e colar). 
 Fiquem atentos que o copia e cola traz alguns caracteres trocados, como por exemplo o símbolo de "=". Revisem os códigos.
 
 https://drive.google.com/drive/folders/1CCJmG-OVg88LUXpzflF_WZmhicb7pryL
